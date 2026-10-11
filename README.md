@@ -43,7 +43,7 @@ Built on a **Retrieval-Augmented Generation (RAG)** architecture:
 
 # 📸 Demo Video
 
-https://github.com/user-attachments/assets/ضعى_الرابط_الذي_ظهر_لك_هنا
+https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/92e8cf6a-2f47-4140-9c11-b50b6b7fb52d
 
 ---
 
@@ -62,8 +62,8 @@ https://github.com/user-attachments/assets/ضعى_الرابط_الذي_ظهر_�
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SaraAskar/YOUR_REPO_NAME.git](https://github.com/SaraAskar/Lakhas-AI.git)
+   git clone (https://github.com/SaraAskar/Lakhas-AI.git)
    cd Lakhas-AI
 
-https://github.com/user-attachments/assets/92e8cf6a-2f47-4140-9c11-b50b6b7fb52d
+
 
