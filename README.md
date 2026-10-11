@@ -62,8 +62,9 @@ https://github.com/user-attachments/assets/https://github.com/user-attachments/a
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/SaraAskar/Lakhas-AI.git)
+   git clone [https://github.com/SaraAskar/Lakhas-AI.git](https://github.com/SaraAskar/Lakhas-AI.git)
    cd Lakhas-AI
-
+   pip install -r requirements.txt
+   streamlit run app.py
 
 
